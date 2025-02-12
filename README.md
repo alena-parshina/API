@@ -2,6 +2,9 @@
 ---
 Тестирование API
 ---
+Изучала основы тестирования API (SOAP, REST), работу с Postman (авторизация, HTTP-методы, автотесты), Swagger, тест-планы, чек-листы, отчеты о дефектах и тестирование веб-приложений
+___
+
 [Коллекция в Postman для Online Store "Products"](https://github.com/user-attachments/files/18770653/DemoShopping.postman_collection.json)
 ---
 [Run Collection для DemoShopping.Postman ](https://github.com/user-attachments/files/18446812/DemoShopping.postman_test_run.json)
